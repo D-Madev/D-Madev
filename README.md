@@ -8,7 +8,13 @@
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture>
+  <img 
+    src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true"
+    alt="gif"
+    style="max-width:250px; width:100%; height:auto; display:block; margin:auto;"
+  >
+</picture>
 <br>
 
 - :student: A `Computer Science graduate` from [UTN INSPT](https://inspt.utn.edu.ar/), Argentina 🇦🇷.
