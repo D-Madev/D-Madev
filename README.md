@@ -8,19 +8,20 @@
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture>
-  <img 
-    src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true"
-    alt="gif"
-    style="max-width:250px; height:auto; float:right;"
-  >
-</picture>
 <br>
+  <picture>
+    <img 
+      src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true"
+      alt="gif"
+      style="width:250px; float:right"
+		align="right"
+    >
+  </picture>
 
-- :student: A `Computer Science graduate` from [UTN INSPT](https://inspt.utn.edu.ar/), Argentina 🇦🇷.
-- :technologist: Passionate about `software development` and `continuous learning`.
-- :mortar_board: Currently enhancing my `programming skills` and staying up to date with `new technologies` through courses.
-- :briefcase: I'm always open to feedback and new opportunities!
+- :student: A `Computer Science graduate` from [UTN INSPT](https://inspt.utn.edu.ar/), Argentina 🇦🇷.  
+- :technologist: Passionate about `software development` and `continuous learning`.  
+- :mortar_board: Currently enhancing my `programming skills` and staying up to date with `new technologies` through courses.  
+- :briefcase: I'm always open to feedback and new opportunities!  
 
 <br><br>
 
