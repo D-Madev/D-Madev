@@ -12,7 +12,7 @@
   <img 
     src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true"
     alt="gif"
-    style="max-width:250px; width:100%; height:auto; display:block; margin:auto;"
+    style="max-width:250px; height:auto; float:right;"
   >
 </picture>
 <br>
